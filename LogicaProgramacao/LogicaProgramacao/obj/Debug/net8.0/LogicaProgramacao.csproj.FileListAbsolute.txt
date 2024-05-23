@@ -12,3 +12,4 @@ J:\Projetos\Curso_de_CSharp\LogicaProgramacao\LogicaProgramacao\obj\Debug\net8.0
 J:\Projetos\Curso_de_CSharp\LogicaProgramacao\LogicaProgramacao\obj\Debug\net8.0\LogicaProgramacao.pdb
 J:\Projetos\Curso_de_CSharp\LogicaProgramacao\LogicaProgramacao\obj\Debug\net8.0\LogicaProgramacao.genruntimeconfig.cache
 J:\Projetos\Curso_de_CSharp\LogicaProgramacao\LogicaProgramacao\obj\Debug\net8.0\ref\LogicaProgramacao.dll
+J:\Projetos\Curso_de_CSharp\LogicaProgramacao\LogicaProgramacao\obj\Debug\net8.0\LogicaProgramacao.sourcelink.json

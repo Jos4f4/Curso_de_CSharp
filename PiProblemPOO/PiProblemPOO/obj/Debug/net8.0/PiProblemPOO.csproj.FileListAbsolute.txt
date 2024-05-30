@@ -1,0 +1,15 @@
+J:\Projetos\Curso_de_CSharp\PiProblemPOO\PiProblemPOO\bin\Debug\net8.0\PiProblemPOO.exe
+J:\Projetos\Curso_de_CSharp\PiProblemPOO\PiProblemPOO\bin\Debug\net8.0\PiProblemPOO.deps.json
+J:\Projetos\Curso_de_CSharp\PiProblemPOO\PiProblemPOO\bin\Debug\net8.0\PiProblemPOO.runtimeconfig.json
+J:\Projetos\Curso_de_CSharp\PiProblemPOO\PiProblemPOO\bin\Debug\net8.0\PiProblemPOO.dll
+J:\Projetos\Curso_de_CSharp\PiProblemPOO\PiProblemPOO\bin\Debug\net8.0\PiProblemPOO.pdb
+J:\Projetos\Curso_de_CSharp\PiProblemPOO\PiProblemPOO\obj\Debug\net8.0\PiProblemPOO.GeneratedMSBuildEditorConfig.editorconfig
+J:\Projetos\Curso_de_CSharp\PiProblemPOO\PiProblemPOO\obj\Debug\net8.0\PiProblemPOO.AssemblyInfoInputs.cache
+J:\Projetos\Curso_de_CSharp\PiProblemPOO\PiProblemPOO\obj\Debug\net8.0\PiProblemPOO.AssemblyInfo.cs
+J:\Projetos\Curso_de_CSharp\PiProblemPOO\PiProblemPOO\obj\Debug\net8.0\PiProblemPOO.csproj.CoreCompileInputs.cache
+J:\Projetos\Curso_de_CSharp\PiProblemPOO\PiProblemPOO\obj\Debug\net8.0\PiProblemPOO.sourcelink.json
+J:\Projetos\Curso_de_CSharp\PiProblemPOO\PiProblemPOO\obj\Debug\net8.0\PiProblemPOO.dll
+J:\Projetos\Curso_de_CSharp\PiProblemPOO\PiProblemPOO\obj\Debug\net8.0\refint\PiProblemPOO.dll
+J:\Projetos\Curso_de_CSharp\PiProblemPOO\PiProblemPOO\obj\Debug\net8.0\PiProblemPOO.pdb
+J:\Projetos\Curso_de_CSharp\PiProblemPOO\PiProblemPOO\obj\Debug\net8.0\PiProblemPOO.genruntimeconfig.cache
+J:\Projetos\Curso_de_CSharp\PiProblemPOO\PiProblemPOO\obj\Debug\net8.0\ref\PiProblemPOO.dll

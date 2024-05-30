@@ -1,0 +1,15 @@
+J:\Projetos\Curso_de_CSharp\CalculatorPOO\CalculatorPOO\bin\Debug\net8.0\CalculatorPOO.exe
+J:\Projetos\Curso_de_CSharp\CalculatorPOO\CalculatorPOO\bin\Debug\net8.0\CalculatorPOO.deps.json
+J:\Projetos\Curso_de_CSharp\CalculatorPOO\CalculatorPOO\bin\Debug\net8.0\CalculatorPOO.runtimeconfig.json
+J:\Projetos\Curso_de_CSharp\CalculatorPOO\CalculatorPOO\bin\Debug\net8.0\CalculatorPOO.dll
+J:\Projetos\Curso_de_CSharp\CalculatorPOO\CalculatorPOO\bin\Debug\net8.0\CalculatorPOO.pdb
+J:\Projetos\Curso_de_CSharp\CalculatorPOO\CalculatorPOO\obj\Debug\net8.0\CalculatorPOO.GeneratedMSBuildEditorConfig.editorconfig
+J:\Projetos\Curso_de_CSharp\CalculatorPOO\CalculatorPOO\obj\Debug\net8.0\CalculatorPOO.AssemblyInfoInputs.cache
+J:\Projetos\Curso_de_CSharp\CalculatorPOO\CalculatorPOO\obj\Debug\net8.0\CalculatorPOO.AssemblyInfo.cs
+J:\Projetos\Curso_de_CSharp\CalculatorPOO\CalculatorPOO\obj\Debug\net8.0\CalculatorPOO.csproj.CoreCompileInputs.cache
+J:\Projetos\Curso_de_CSharp\CalculatorPOO\CalculatorPOO\obj\Debug\net8.0\CalculatorPOO.sourcelink.json
+J:\Projetos\Curso_de_CSharp\CalculatorPOO\CalculatorPOO\obj\Debug\net8.0\CalculatorPOO.dll
+J:\Projetos\Curso_de_CSharp\CalculatorPOO\CalculatorPOO\obj\Debug\net8.0\refint\CalculatorPOO.dll
+J:\Projetos\Curso_de_CSharp\CalculatorPOO\CalculatorPOO\obj\Debug\net8.0\CalculatorPOO.pdb
+J:\Projetos\Curso_de_CSharp\CalculatorPOO\CalculatorPOO\obj\Debug\net8.0\CalculatorPOO.genruntimeconfig.cache
+J:\Projetos\Curso_de_CSharp\CalculatorPOO\CalculatorPOO\obj\Debug\net8.0\ref\CalculatorPOO.dll

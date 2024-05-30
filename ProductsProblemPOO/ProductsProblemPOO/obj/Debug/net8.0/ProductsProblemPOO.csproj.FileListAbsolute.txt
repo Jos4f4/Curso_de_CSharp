@@ -1,0 +1,15 @@
+J:\Projetos\Curso_de_CSharp\ProductsProblemPOO\ProductsProblemPOO\bin\Debug\net8.0\ProductsProblemPOO.exe
+J:\Projetos\Curso_de_CSharp\ProductsProblemPOO\ProductsProblemPOO\bin\Debug\net8.0\ProductsProblemPOO.deps.json
+J:\Projetos\Curso_de_CSharp\ProductsProblemPOO\ProductsProblemPOO\bin\Debug\net8.0\ProductsProblemPOO.runtimeconfig.json
+J:\Projetos\Curso_de_CSharp\ProductsProblemPOO\ProductsProblemPOO\bin\Debug\net8.0\ProductsProblemPOO.dll
+J:\Projetos\Curso_de_CSharp\ProductsProblemPOO\ProductsProblemPOO\bin\Debug\net8.0\ProductsProblemPOO.pdb
+J:\Projetos\Curso_de_CSharp\ProductsProblemPOO\ProductsProblemPOO\obj\Debug\net8.0\ProductsProblemPOO.GeneratedMSBuildEditorConfig.editorconfig
+J:\Projetos\Curso_de_CSharp\ProductsProblemPOO\ProductsProblemPOO\obj\Debug\net8.0\ProductsProblemPOO.AssemblyInfoInputs.cache
+J:\Projetos\Curso_de_CSharp\ProductsProblemPOO\ProductsProblemPOO\obj\Debug\net8.0\ProductsProblemPOO.AssemblyInfo.cs
+J:\Projetos\Curso_de_CSharp\ProductsProblemPOO\ProductsProblemPOO\obj\Debug\net8.0\ProductsProblemPOO.csproj.CoreCompileInputs.cache
+J:\Projetos\Curso_de_CSharp\ProductsProblemPOO\ProductsProblemPOO\obj\Debug\net8.0\ProductsProblemPOO.sourcelink.json
+J:\Projetos\Curso_de_CSharp\ProductsProblemPOO\ProductsProblemPOO\obj\Debug\net8.0\ProductsProblemPOO.dll
+J:\Projetos\Curso_de_CSharp\ProductsProblemPOO\ProductsProblemPOO\obj\Debug\net8.0\refint\ProductsProblemPOO.dll
+J:\Projetos\Curso_de_CSharp\ProductsProblemPOO\ProductsProblemPOO\obj\Debug\net8.0\ProductsProblemPOO.pdb
+J:\Projetos\Curso_de_CSharp\ProductsProblemPOO\ProductsProblemPOO\obj\Debug\net8.0\ProductsProblemPOO.genruntimeconfig.cache
+J:\Projetos\Curso_de_CSharp\ProductsProblemPOO\ProductsProblemPOO\obj\Debug\net8.0\ref\ProductsProblemPOO.dll

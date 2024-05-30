@@ -1,0 +1,15 @@
+J:\Projetos\Curso_de_CSharp\TriangleProblemPOO\TriangleProblemPOO\obj\Debug\net8.0\TriangleProblemPOO.GeneratedMSBuildEditorConfig.editorconfig
+J:\Projetos\Curso_de_CSharp\TriangleProblemPOO\TriangleProblemPOO\obj\Debug\net8.0\TriangleProblemPOO.AssemblyInfoInputs.cache
+J:\Projetos\Curso_de_CSharp\TriangleProblemPOO\TriangleProblemPOO\obj\Debug\net8.0\TriangleProblemPOO.AssemblyInfo.cs
+J:\Projetos\Curso_de_CSharp\TriangleProblemPOO\TriangleProblemPOO\obj\Debug\net8.0\TriangleProblemPOO.csproj.CoreCompileInputs.cache
+J:\Projetos\Curso_de_CSharp\TriangleProblemPOO\TriangleProblemPOO\obj\Debug\net8.0\TriangleProblemPOO.sourcelink.json
+J:\Projetos\Curso_de_CSharp\TriangleProblemPOO\TriangleProblemPOO\bin\Debug\net8.0\TriangleProblemPOO.exe
+J:\Projetos\Curso_de_CSharp\TriangleProblemPOO\TriangleProblemPOO\bin\Debug\net8.0\TriangleProblemPOO.deps.json
+J:\Projetos\Curso_de_CSharp\TriangleProblemPOO\TriangleProblemPOO\bin\Debug\net8.0\TriangleProblemPOO.runtimeconfig.json
+J:\Projetos\Curso_de_CSharp\TriangleProblemPOO\TriangleProblemPOO\bin\Debug\net8.0\TriangleProblemPOO.dll
+J:\Projetos\Curso_de_CSharp\TriangleProblemPOO\TriangleProblemPOO\bin\Debug\net8.0\TriangleProblemPOO.pdb
+J:\Projetos\Curso_de_CSharp\TriangleProblemPOO\TriangleProblemPOO\obj\Debug\net8.0\TriangleProblemPOO.dll
+J:\Projetos\Curso_de_CSharp\TriangleProblemPOO\TriangleProblemPOO\obj\Debug\net8.0\refint\TriangleProblemPOO.dll
+J:\Projetos\Curso_de_CSharp\TriangleProblemPOO\TriangleProblemPOO\obj\Debug\net8.0\TriangleProblemPOO.pdb
+J:\Projetos\Curso_de_CSharp\TriangleProblemPOO\TriangleProblemPOO\obj\Debug\net8.0\TriangleProblemPOO.genruntimeconfig.cache
+J:\Projetos\Curso_de_CSharp\TriangleProblemPOO\TriangleProblemPOO\obj\Debug\net8.0\ref\TriangleProblemPOO.dll

@@ -1,0 +1,15 @@
+J:\Projetos\Curso_de_CSharp\TopicsSpecial\TopicsSpecial\bin\Debug\net8.0\TopicsSpecial.exe
+J:\Projetos\Curso_de_CSharp\TopicsSpecial\TopicsSpecial\bin\Debug\net8.0\TopicsSpecial.deps.json
+J:\Projetos\Curso_de_CSharp\TopicsSpecial\TopicsSpecial\bin\Debug\net8.0\TopicsSpecial.runtimeconfig.json
+J:\Projetos\Curso_de_CSharp\TopicsSpecial\TopicsSpecial\bin\Debug\net8.0\TopicsSpecial.dll
+J:\Projetos\Curso_de_CSharp\TopicsSpecial\TopicsSpecial\bin\Debug\net8.0\TopicsSpecial.pdb
+J:\Projetos\Curso_de_CSharp\TopicsSpecial\TopicsSpecial\obj\Debug\net8.0\TopicsSpecial.GeneratedMSBuildEditorConfig.editorconfig
+J:\Projetos\Curso_de_CSharp\TopicsSpecial\TopicsSpecial\obj\Debug\net8.0\TopicsSpecial.AssemblyInfoInputs.cache
+J:\Projetos\Curso_de_CSharp\TopicsSpecial\TopicsSpecial\obj\Debug\net8.0\TopicsSpecial.AssemblyInfo.cs
+J:\Projetos\Curso_de_CSharp\TopicsSpecial\TopicsSpecial\obj\Debug\net8.0\TopicsSpecial.csproj.CoreCompileInputs.cache
+J:\Projetos\Curso_de_CSharp\TopicsSpecial\TopicsSpecial\obj\Debug\net8.0\TopicsSpecial.sourcelink.json
+J:\Projetos\Curso_de_CSharp\TopicsSpecial\TopicsSpecial\obj\Debug\net8.0\TopicsSpecial.dll
+J:\Projetos\Curso_de_CSharp\TopicsSpecial\TopicsSpecial\obj\Debug\net8.0\refint\TopicsSpecial.dll
+J:\Projetos\Curso_de_CSharp\TopicsSpecial\TopicsSpecial\obj\Debug\net8.0\TopicsSpecial.pdb
+J:\Projetos\Curso_de_CSharp\TopicsSpecial\TopicsSpecial\obj\Debug\net8.0\TopicsSpecial.genruntimeconfig.cache
+J:\Projetos\Curso_de_CSharp\TopicsSpecial\TopicsSpecial\obj\Debug\net8.0\ref\TopicsSpecial.dll

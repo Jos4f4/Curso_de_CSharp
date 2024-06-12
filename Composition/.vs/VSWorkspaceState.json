@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Composition"
+    "\\Composition",
+    "\\Composition\\entitites"
   ],
-  "SelectedNode": "\\Composition\\Program.cs",
+  "SelectedNode": "\\Composition.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,5 @@
+J:\Projetos\Curso_de_CSharp\Composition\Composition\obj\Debug\net8.0\Composition.GeneratedMSBuildEditorConfig.editorconfig
+J:\Projetos\Curso_de_CSharp\Composition\Composition\obj\Debug\net8.0\Composition.AssemblyInfoInputs.cache
+J:\Projetos\Curso_de_CSharp\Composition\Composition\obj\Debug\net8.0\Composition.AssemblyInfo.cs
+J:\Projetos\Curso_de_CSharp\Composition\Composition\obj\Debug\net8.0\Composition.csproj.CoreCompileInputs.cache
+J:\Projetos\Curso_de_CSharp\Composition\Composition\obj\Debug\net8.0\Composition.sourcelink.json

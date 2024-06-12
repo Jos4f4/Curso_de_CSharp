@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "J:\\Projetos\\Curso_de_CSharp\\Composition\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|J:\\Projetos\\Curso_de_CSharp\\Composition\\Composition\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Composition\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD148FA6-D336-494C-B9D0-D633492C90C6}|Composition\\Composition.csproj|j:\\projetos\\curso_de_csharp\\composition\\composition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD148FA6-D336-494C-B9D0-D633492C90C6}|Composition\\Composition.csproj|solutionrelative:composition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD148FA6-D336-494C-B9D0-D633492C90C6}|Composition\\Composition.csproj|j:\\projetos\\curso_de_csharp\\composition\\composition\\entitites\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD148FA6-D336-494C-B9D0-D633492C90C6}|Composition\\Composition.csproj|solutionrelative:composition\\entitites\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD148FA6-D336-494C-B9D0-D633492C90C6}|Composition\\Composition.csproj|j:\\projetos\\curso_de_csharp\\composition\\composition\\entitites\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD148FA6-D336-494C-B9D0-D633492C90C6}|Composition\\Composition.csproj|solutionrelative:composition\\entitites\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD148FA6-D336-494C-B9D0-D633492C90C6}|Composition\\Composition.csproj|j:\\projetos\\curso_de_csharp\\composition\\composition\\entitites\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD148FA6-D336-494C-B9D0-D633492C90C6}|Composition\\Composition.csproj|solutionrelative:composition\\entitites\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD148FA6-D336-494C-B9D0-D633492C90C6}|Composition\\Composition.csproj|j:\\projetos\\curso_de_csharp\\composition\\composition\\entitites\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD148FA6-D336-494C-B9D0-D633492C90C6}|Composition\\Composition.csproj|solutionrelative:composition\\entitites\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +40,63 @@
               "RelativeDocumentMoniker": "Composition\\Program.cs",
               "ToolTip": "J:\\Projetos\\Curso_de_CSharp\\Composition\\Composition\\Program.cs",
               "RelativeToolTip": "Composition\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T05:21:37.451Z",
+              "WhenOpened": "2024-06-11T23:41:42.339Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "J:\\Projetos\\Curso_de_CSharp\\Composition\\Composition\\entitites\\Worker.cs",
+              "RelativeDocumentMoniker": "Composition\\entitites\\Worker.cs",
+              "ToolTip": "J:\\Projetos\\Curso_de_CSharp\\Composition\\Composition\\entitites\\Worker.cs",
+              "RelativeToolTip": "Composition\\entitites\\Worker.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T23:42:43.273Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkerLevel.cs",
+              "DocumentMoniker": "J:\\Projetos\\Curso_de_CSharp\\Composition\\Composition\\entitites\\Enums\\WorkerLevel.cs",
+              "RelativeDocumentMoniker": "Composition\\entitites\\Enums\\WorkerLevel.cs",
+              "ToolTip": "J:\\Projetos\\Curso_de_CSharp\\Composition\\Composition\\entitites\\Enums\\WorkerLevel.cs",
+              "RelativeToolTip": "Composition\\entitites\\Enums\\WorkerLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T23:43:47.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HourContract.cs",
+              "DocumentMoniker": "J:\\Projetos\\Curso_de_CSharp\\Composition\\Composition\\entitites\\HourContract.cs",
+              "RelativeDocumentMoniker": "Composition\\entitites\\HourContract.cs",
+              "ToolTip": "J:\\Projetos\\Curso_de_CSharp\\Composition\\Composition\\entitites\\HourContract.cs",
+              "RelativeToolTip": "Composition\\entitites\\HourContract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T23:36:27.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "J:\\Projetos\\Curso_de_CSharp\\Composition\\Composition\\entitites\\Department.cs",
+              "RelativeDocumentMoniker": "Composition\\entitites\\Department.cs",
+              "ToolTip": "J:\\Projetos\\Curso_de_CSharp\\Composition\\Composition\\entitites\\Department.cs",
+              "RelativeToolTip": "Composition\\entitites\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T23:33:07.787Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\Projetos\\Curso_de_CSharp\\Heranca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F810A4-FF5A-40A9-B2F4-DF5A01DD6F39}|Heranca\\Heranca.csproj|j:\\projetos\\curso_de_csharp\\heranca\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F810A4-FF5A-40A9-B2F4-DF5A01DD6F39}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F810A4-FF5A-40A9-B2F4-DF5A01DD6F39}|Heranca\\Heranca.csproj|j:\\projetos\\curso_de_csharp\\heranca\\heranca\\entitites\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F810A4-FF5A-40A9-B2F4-DF5A01DD6F39}|Heranca\\Heranca.csproj|solutionrelative:heranca\\entitites\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F810A4-FF5A-40A9-B2F4-DF5A01DD6F39}|Heranca\\Heranca.csproj|j:\\projetos\\curso_de_csharp\\heranca\\heranca\\entitites\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F810A4-FF5A-40A9-B2F4-DF5A01DD6F39}|Heranca\\Heranca.csproj|solutionrelative:heranca\\entitites\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F810A4-FF5A-40A9-B2F4-DF5A01DD6F39}|Heranca\\Heranca.csproj|j:\\projetos\\curso_de_csharp\\heranca\\heranca\\entitites\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F810A4-FF5A-40A9-B2F4-DF5A01DD6F39}|Heranca\\Heranca.csproj|solutionrelative:heranca\\entitites\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "J:\\Projetos\\Curso_de_CSharp\\Heranca\\Heranca\\entitites\\Account.cs",
+              "RelativeDocumentMoniker": "Heranca\\entitites\\Account.cs",
+              "ToolTip": "J:\\Projetos\\Curso_de_CSharp\\Heranca\\Heranca\\entitites\\Account.cs",
+              "RelativeToolTip": "Heranca\\entitites\\Account.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwBoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:00:31.657Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "J:\\Projetos\\Curso_de_CSharp\\Heranca\\Heranca\\entitites\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "Heranca\\entitites\\SavingsAccount.cs",
+              "ToolTip": "J:\\Projetos\\Curso_de_CSharp\\Heranca\\Heranca\\entitites\\SavingsAccount.cs",
+              "RelativeToolTip": "Heranca\\entitites\\SavingsAccount.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:52:18.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "J:\\Projetos\\Curso_de_CSharp\\Heranca\\Heranca\\entitites\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "Heranca\\entitites\\BusinessAccount.cs",
+              "ToolTip": "J:\\Projetos\\Curso_de_CSharp\\Heranca\\Heranca\\entitites\\BusinessAccount.cs",
+              "RelativeToolTip": "Heranca\\entitites\\BusinessAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:39:19.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "J:\\Projetos\\Curso_de_CSharp\\Heranca\\Heranca\\Program.cs",
+              "RelativeDocumentMoniker": "Heranca\\Program.cs",
+              "ToolTip": "J:\\Projetos\\Curso_de_CSharp\\Heranca\\Heranca\\Program.cs",
+              "RelativeToolTip": "Heranca\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:25:38.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

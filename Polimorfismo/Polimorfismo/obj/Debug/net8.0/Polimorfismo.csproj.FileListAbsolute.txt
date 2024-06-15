@@ -1,0 +1,5 @@
+J:\Projetos\Curso_de_CSharp\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+J:\Projetos\Curso_de_CSharp\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.AssemblyInfoInputs.cache
+J:\Projetos\Curso_de_CSharp\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.AssemblyInfo.cs
+J:\Projetos\Curso_de_CSharp\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.csproj.CoreCompileInputs.cache
+J:\Projetos\Curso_de_CSharp\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.sourcelink.json

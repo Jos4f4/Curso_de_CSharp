@@ -1,0 +1,15 @@
+J:\Projetos\Curso_de_CSharp\Trycatch\Trycatch\bin\Debug\net8.0\Trycatch.exe
+J:\Projetos\Curso_de_CSharp\Trycatch\Trycatch\bin\Debug\net8.0\Trycatch.deps.json
+J:\Projetos\Curso_de_CSharp\Trycatch\Trycatch\bin\Debug\net8.0\Trycatch.runtimeconfig.json
+J:\Projetos\Curso_de_CSharp\Trycatch\Trycatch\bin\Debug\net8.0\Trycatch.dll
+J:\Projetos\Curso_de_CSharp\Trycatch\Trycatch\bin\Debug\net8.0\Trycatch.pdb
+J:\Projetos\Curso_de_CSharp\Trycatch\Trycatch\obj\Debug\net8.0\Trycatch.GeneratedMSBuildEditorConfig.editorconfig
+J:\Projetos\Curso_de_CSharp\Trycatch\Trycatch\obj\Debug\net8.0\Trycatch.AssemblyInfoInputs.cache
+J:\Projetos\Curso_de_CSharp\Trycatch\Trycatch\obj\Debug\net8.0\Trycatch.AssemblyInfo.cs
+J:\Projetos\Curso_de_CSharp\Trycatch\Trycatch\obj\Debug\net8.0\Trycatch.csproj.CoreCompileInputs.cache
+J:\Projetos\Curso_de_CSharp\Trycatch\Trycatch\obj\Debug\net8.0\Trycatch.sourcelink.json
+J:\Projetos\Curso_de_CSharp\Trycatch\Trycatch\obj\Debug\net8.0\Trycatch.dll
+J:\Projetos\Curso_de_CSharp\Trycatch\Trycatch\obj\Debug\net8.0\refint\Trycatch.dll
+J:\Projetos\Curso_de_CSharp\Trycatch\Trycatch\obj\Debug\net8.0\Trycatch.pdb
+J:\Projetos\Curso_de_CSharp\Trycatch\Trycatch\obj\Debug\net8.0\Trycatch.genruntimeconfig.cache
+J:\Projetos\Curso_de_CSharp\Trycatch\Trycatch\obj\Debug\net8.0\ref\Trycatch.dll

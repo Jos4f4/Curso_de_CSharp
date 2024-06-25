@@ -1,0 +1,15 @@
+J:\Projetos\Curso_de_CSharp\Arquivos\Arquivos\obj\Debug\net8.0\Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+J:\Projetos\Curso_de_CSharp\Arquivos\Arquivos\obj\Debug\net8.0\Arquivos.AssemblyInfoInputs.cache
+J:\Projetos\Curso_de_CSharp\Arquivos\Arquivos\obj\Debug\net8.0\Arquivos.AssemblyInfo.cs
+J:\Projetos\Curso_de_CSharp\Arquivos\Arquivos\obj\Debug\net8.0\Arquivos.csproj.CoreCompileInputs.cache
+J:\Projetos\Curso_de_CSharp\Arquivos\Arquivos\obj\Debug\net8.0\Arquivos.sourcelink.json
+J:\Projetos\Curso_de_CSharp\Arquivos\Arquivos\bin\Debug\net8.0\Arquivos.exe
+J:\Projetos\Curso_de_CSharp\Arquivos\Arquivos\bin\Debug\net8.0\Arquivos.deps.json
+J:\Projetos\Curso_de_CSharp\Arquivos\Arquivos\bin\Debug\net8.0\Arquivos.runtimeconfig.json
+J:\Projetos\Curso_de_CSharp\Arquivos\Arquivos\bin\Debug\net8.0\Arquivos.dll
+J:\Projetos\Curso_de_CSharp\Arquivos\Arquivos\bin\Debug\net8.0\Arquivos.pdb
+J:\Projetos\Curso_de_CSharp\Arquivos\Arquivos\obj\Debug\net8.0\Arquivos.dll
+J:\Projetos\Curso_de_CSharp\Arquivos\Arquivos\obj\Debug\net8.0\refint\Arquivos.dll
+J:\Projetos\Curso_de_CSharp\Arquivos\Arquivos\obj\Debug\net8.0\Arquivos.pdb
+J:\Projetos\Curso_de_CSharp\Arquivos\Arquivos\obj\Debug\net8.0\Arquivos.genruntimeconfig.cache
+J:\Projetos\Curso_de_CSharp\Arquivos\Arquivos\obj\Debug\net8.0\ref\Arquivos.dll

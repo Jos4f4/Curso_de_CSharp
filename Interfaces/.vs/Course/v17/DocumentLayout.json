@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\Projetos\\Curso_de_CSharp\\Interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD63E97-40FF-479E-B28A-9946AD374CA0}|Course\\Course.csproj|j:\\projetos\\curso_de_csharp\\interfaces\\course\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD63E97-40FF-479E-B28A-9946AD374CA0}|Course\\Course.csproj|solutionrelative:course\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD63E97-40FF-479E-B28A-9946AD374CA0}|Course\\Course.csproj|j:\\projetos\\curso_de_csharp\\interfaces\\course\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD63E97-40FF-479E-B28A-9946AD374CA0}|Course\\Course.csproj|solutionrelative:course\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD63E97-40FF-479E-B28A-9946AD374CA0}|Course\\Course.csproj|j:\\projetos\\curso_de_csharp\\interfaces\\course\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD63E97-40FF-479E-B28A-9946AD374CA0}|Course\\Course.csproj|solutionrelative:course\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD63E97-40FF-479E-B28A-9946AD374CA0}|Course\\Course.csproj|j:\\projetos\\curso_de_csharp\\interfaces\\course\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD63E97-40FF-479E-B28A-9946AD374CA0}|Course\\Course.csproj|solutionrelative:course\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD63E97-40FF-479E-B28A-9946AD374CA0}|Course\\Course.csproj|j:\\projetos\\curso_de_csharp\\interfaces\\course\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD63E97-40FF-479E-B28A-9946AD374CA0}|Course\\Course.csproj|solutionrelative:course\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD63E97-40FF-479E-B28A-9946AD374CA0}|Course\\Course.csproj|j:\\projetos\\curso_de_csharp\\interfaces\\course\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD63E97-40FF-479E-B28A-9946AD374CA0}|Course\\Course.csproj|solutionrelative:course\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "J:\\Projetos\\Curso_de_CSharp\\Interfaces\\Course\\Services\\RentalService.cs",
+              "RelativeDocumentMoniker": "Course\\Services\\RentalService.cs",
+              "ToolTip": "J:\\Projetos\\Curso_de_CSharp\\Interfaces\\Course\\Services\\RentalService.cs",
+              "RelativeToolTip": "Course\\Services\\RentalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:48:00.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "J:\\Projetos\\Curso_de_CSharp\\Interfaces\\Course\\Services\\ITaxService.cs",
+              "RelativeDocumentMoniker": "Course\\Services\\ITaxService.cs",
+              "ToolTip": "J:\\Projetos\\Curso_de_CSharp\\Interfaces\\Course\\Services\\ITaxService.cs",
+              "RelativeToolTip": "Course\\Services\\ITaxService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:48:00.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrazilTaxService.cs",
+              "DocumentMoniker": "J:\\Projetos\\Curso_de_CSharp\\Interfaces\\Course\\Services\\BrazilTaxService.cs",
+              "RelativeDocumentMoniker": "Course\\Services\\BrazilTaxService.cs",
+              "ToolTip": "J:\\Projetos\\Curso_de_CSharp\\Interfaces\\Course\\Services\\BrazilTaxService.cs",
+              "RelativeToolTip": "Course\\Services\\BrazilTaxService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:47:59.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "J:\\Projetos\\Curso_de_CSharp\\Interfaces\\Course\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Course\\Entities\\Vehicle.cs",
+              "ToolTip": "J:\\Projetos\\Curso_de_CSharp\\Interfaces\\Course\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "Course\\Entities\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:47:57.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "J:\\Projetos\\Curso_de_CSharp\\Interfaces\\Course\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "Course\\Entities\\Invoice.cs",
+              "ToolTip": "J:\\Projetos\\Curso_de_CSharp\\Interfaces\\Course\\Entities\\Invoice.cs",
+              "RelativeToolTip": "Course\\Entities\\Invoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:47:57.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "J:\\Projetos\\Curso_de_CSharp\\Interfaces\\Course\\Entities\\CarRental.cs",
+              "RelativeDocumentMoniker": "Course\\Entities\\CarRental.cs",
+              "ToolTip": "J:\\Projetos\\Curso_de_CSharp\\Interfaces\\Course\\Entities\\CarRental.cs",
+              "RelativeToolTip": "Course\\Entities\\CarRental.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:47:56.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

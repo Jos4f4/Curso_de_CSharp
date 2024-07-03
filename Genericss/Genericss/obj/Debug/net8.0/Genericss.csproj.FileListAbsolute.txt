@@ -1,0 +1,15 @@
+J:\Projetos\Curso_de_CSharp\Genericss\Genericss\bin\Debug\net8.0\Genericss.exe
+J:\Projetos\Curso_de_CSharp\Genericss\Genericss\bin\Debug\net8.0\Genericss.deps.json
+J:\Projetos\Curso_de_CSharp\Genericss\Genericss\bin\Debug\net8.0\Genericss.runtimeconfig.json
+J:\Projetos\Curso_de_CSharp\Genericss\Genericss\bin\Debug\net8.0\Genericss.dll
+J:\Projetos\Curso_de_CSharp\Genericss\Genericss\bin\Debug\net8.0\Genericss.pdb
+J:\Projetos\Curso_de_CSharp\Genericss\Genericss\obj\Debug\net8.0\Genericss.GeneratedMSBuildEditorConfig.editorconfig
+J:\Projetos\Curso_de_CSharp\Genericss\Genericss\obj\Debug\net8.0\Genericss.AssemblyInfoInputs.cache
+J:\Projetos\Curso_de_CSharp\Genericss\Genericss\obj\Debug\net8.0\Genericss.AssemblyInfo.cs
+J:\Projetos\Curso_de_CSharp\Genericss\Genericss\obj\Debug\net8.0\Genericss.csproj.CoreCompileInputs.cache
+J:\Projetos\Curso_de_CSharp\Genericss\Genericss\obj\Debug\net8.0\Genericss.sourcelink.json
+J:\Projetos\Curso_de_CSharp\Genericss\Genericss\obj\Debug\net8.0\Genericss.dll
+J:\Projetos\Curso_de_CSharp\Genericss\Genericss\obj\Debug\net8.0\refint\Genericss.dll
+J:\Projetos\Curso_de_CSharp\Genericss\Genericss\obj\Debug\net8.0\Genericss.pdb
+J:\Projetos\Curso_de_CSharp\Genericss\Genericss\obj\Debug\net8.0\Genericss.genruntimeconfig.cache
+J:\Projetos\Curso_de_CSharp\Genericss\Genericss\obj\Debug\net8.0\ref\Genericss.dll
